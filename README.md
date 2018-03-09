@@ -8,6 +8,6 @@
 * 1 x Arduino Uno ([https://ru.aliexpress.com...](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20180309100500&SearchText=arduino+uno+r3))
 * 2 x LED
 * 1 x 220 ОМ
-2. Видео на YouTube: [https://youtu.be/D4hlApTUEX4](https://youtu.be/D4hlApTUEX4)
+2. Видео на YouTube: [https://youtu.be/1JFT78T_hqk](https://youtu.be/1JFT78T_hqk)
 3. Схема подключения для проверки работоспособности на макетной плате:
 ![Схема подключения](https://github.com/dbprof/soap-dispenser/blob/master/5.png)
